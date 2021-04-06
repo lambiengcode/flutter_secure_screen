@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 
-var colorBackground = Color(0xFF0E1111);
-
 var colorBlack = Color(0xFF14171A);
 var colorDarkGrey = Color(0xFF657786);
 var colorPrimary = Color(0xFF1DA1F2);
-var colorTitle = Color(0xFF2C3D50);
+var colorTitle = Color(0xFF402563).withOpacity(.9);
 
 var colorHigh = Colors.redAccent;
 var colorMedium = Colors.amber.shade700;
@@ -13,6 +11,7 @@ var colorLow = colorPrimary;
 var colorCompleted = Colors.green;
 var colorFailed = colorDarkGrey;
 var colorActive = Color(0xFF00D72F);
+var colorPink = Color(0xFFFF0098);
 
 Color mC = Colors.grey.shade100;
 Color mCL = Colors.white;

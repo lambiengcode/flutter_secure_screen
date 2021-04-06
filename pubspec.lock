@@ -169,13 +169,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.11"
-  flip_card:
-    dependency: "direct main"
-    description:
-      name: flip_card
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.4.4"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -217,13 +210,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.13.3"
-  glassmorphism_ui:
-    dependency: "direct main"
-    description:
-      name: glassmorphism_ui
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.0"
   glob:
     dependency: transitive
     description:
@@ -236,13 +222,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.9.2+2"
-  intl:
-    dependency: "direct main"
-    description:
-      name: intl
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.16.1"
   io:
     dependency: transitive
     description:
@@ -271,13 +250,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.11.4"
-  lottie:
-    dependency: "direct main"
-    description:
-      name: lottie
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.7.0+1"
   matcher:
     dependency: transitive
     description:
@@ -558,4 +530,4 @@ packages:
     version: "2.2.1"
 sdks:
   dart: ">=2.12.0-0.0 <3.0.0"
-  flutter: ">=1.17.0"
+  flutter: ">=1.17.0 <2.0.0"

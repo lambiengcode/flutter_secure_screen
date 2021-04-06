@@ -30,10 +30,6 @@ dependencies:
   cupertino_icons: ^1.0.1
   get_test: ^3.13.3
   get_storage: ^1.4.0
-  flip_card: ^0.4.4
-  lottie: ^0.7.0+1
-  intl:
-  glassmorphism_ui: ^0.1.0
 
 dev_dependencies:
   flutter_test:
